@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Who Am I](https://raw.githubusercontent.com/RyanMorgue./RyanMorgue./refs/heads/main/jjk_animated.svg)
+![Who Am I](https://raw.githubusercontent.com/RyanMorgue/RyanMorgue./refs/heads/main/jjk_animated.svg)
 
 </div>
 
