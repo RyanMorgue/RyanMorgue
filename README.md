@@ -1,6 +1,6 @@
 <div align="center">
 
-![Pixel Name](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&pause=2000&color=9B59B6&center=true&vCenter=true&width=700&height=80&lines=RyanMorgue.)
+![Pixel Name](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&pause=2000&color=9B59B6&center=true&vCenter=true&width=700&height=80&lines=RyanMorgue)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=9B59B6&center=true&vCenter=true&width=400&lines=tech+learner.;python+developer.;vibe+coder.;building+in+the+dark.)
 
