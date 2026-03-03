@@ -38,6 +38,13 @@
 
 ---
 
+## `~/connect`
+
+**LinkedIn:**  
+https://www.linkedin.com/in/ryan-mok-207555247/
+
+---
+
 <div align="center">
 
 *lurking. learning. building.*
